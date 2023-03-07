@@ -5,8 +5,7 @@
 - 目的：管理员可以督促执行人上传课题，执行人可以将每月课题汇报给管理员
 - 仓库：ccnu-lab/monthly_reports
 ## 业务流程图
-![WX20230307-151002@2x](https://user-images.githubusercontent.com/101395055/223350077-fadd6ac4-1531-4490-bdd2-0d501919b6e5.png)
-
+![page_1](https://user-images.githubusercontent.com/101395055/223350493-791bc176-956e-4862-9d45-5dd368a8760d.png)
 ## 角色分工
 1. 管理员：负责给各执行人建任务卡
 2. 执行人：根据管理员创建的任务卡，在对应文件夹下，完成自己所分配的任务
