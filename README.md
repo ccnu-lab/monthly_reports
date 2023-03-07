@@ -30,14 +30,28 @@
 
 2. 创建任务卡（管理员）
 - 进入issues，点击New issue创建任务卡；
-- 输入title（比如某某人-提交几月课题），选择Assignees 和 Projects 后，点击Submit new issue完成创建；
+- 输入title（命名规则：月份-姓名-课题名称），选择Assignees 和 Projects 后，点击Submit new issue完成创建；
 
 3. 创建新分支（执行人）
+- 进入issues，点击自己的任务卡；
+- 在右侧Development，点击Create a branch 创建新分支（记住新分支名）
+
 4. 在新分支上传文件（执行人）
-5. 发起pull请求（执行人）
-6. 合入主分支（执行人）
+- 进入code，选择新分支名
+- 在当前新分支名下，选择自己要上传文件的主文件名，进入最末级（示例：https://github.com/ccnu-lab/monthly_reports/tree/17-%E6%9D%8E%E6%98%A5%E9%9B%A8/%E9%A1%B9%E7%9B%AEM/%E8%AF%BE%E9%A2%98AA/%E4%B8%89%E6%9C%88）
+- 点击Add file >- Upload files，上传课题文件，同时在Add files via upload输入当前的操作（命名规则：姓名-学校-当前做了什么）；
+- 点击commit changes
+
+5. 发起pull请求，合入主分支（执行人）
+- 进入pull requests，点击Compare & pull request
+- 点击create pull request
+- 点击Merge pull request
+- 点击confirm merge
+- 点击Delete branch
+
 ## 命名规范
 - 项目：项目名称
 - issue：月份-姓名-课题名称
 - 上传的文件：月份-姓名-课题名称-学校名称
+- 上传文件的via：姓名-学校-当前做了什么
 
