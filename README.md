@@ -5,14 +5,16 @@
 - 目的：管理员可以督促执行人上传课题，执行人可以将每月课题汇报给管理员
 - 仓库：ccnu-lab/monthly_reports
 ## 业务流程图
-![page_1](https://user-images.githubusercontent.com/101395055/223350608-4c5a565a-094f-463e-9b49-31011922f6ad.png)
+![page_1](https://user-images.githubusercontent.com/101395055/223351774-2a6688ae-6f64-4781-aa67-a46c3a8ac31b.png)
+
 ## 角色分工
 1. 管理员：负责给各执行人建任务卡
 2. 执行人：根据管理员创建的任务卡，在对应文件夹下，完成自己所分配的任务
 ## 具体操作
 1. 创建任务卡（管理员）
 - 进入仓库 monthly_reports
-- 创建项目单位
+- 进入projects，创建项目
+- 进入
 2. 创建新分支（执行人）
 3. 在新分支上传文件（执行人）
 4. 发起pull请求（执行人）
