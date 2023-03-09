@@ -7,7 +7,7 @@
 
 ## 业务流程图
 - Cac-Github分级管理工作流
-![page_1](https://user-images.githubusercontent.com/101395055/223351774-2a6688ae-6f64-4781-aa67-a46c3a8ac31b.png)
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/101395055/223962915-b4ec6db0-b67c-46b9-8c31-fcc761d03331.png">
 - 具体操作见下方文字描述
 
 
